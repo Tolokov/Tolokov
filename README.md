@@ -1,4 +1,4 @@
-## :wave: Hi! ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Tolokov)
+## :wave: Hi! 
 
 :v: My name is Vitaliy. I have been developing programs in python for over a year, and in the past graduated from college where I solved problems in C++ and JavaScript
 
