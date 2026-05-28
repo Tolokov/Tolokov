@@ -19,134 +19,81 @@
 
 ## 🧩 About Me
 
-Backend Python engineer with **6+ years** of experience building and maintaining production systems in AdTech, logistics, and infrastructure environments.
+Backend Python engineer with **6+ years** of experience building and maintaining production systems in AdTech, logistics, and infrastructure domains.
 
-Most of my work revolves around:
+I mainly work with:
 
 - high-load backend services
-- event-driven architectures
 - distributed systems
+- event-driven architecture
 - async processing
-- observability and monitoring
+- observability & monitoring
 - infrastructure/platform engineering
 - AI-assisted development workflows
 
-I enjoy building boring, reliable systems that quietly handle millions of events without waking people up at night.
-
 Currently focused on:
+
 - scalable Python microservices
 - real-time data processing
-- platform tooling
 - internal AI agents & LLM workflows
+- platform tooling & developer infrastructure
 - performance optimization
-- developer infrastructure
+- production reliability
+
+I enjoy building boring, reliable systems that quietly process millions of events without waking people up at night.
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-## Backend
+- **Backend:**  
+  `Python` `FastAPI` `Django` `DRF` `Flask` `SQLAlchemy` `Celery`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-red?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+- **Databases & Storage:**  
+  `PostgreSQL` `ClickHouse` `MongoDB` `Redis` `S3 Object Storage`
 
----
+- **Messaging & Streaming:**  
+  `Kafka` `RabbitMQ`
 
-## Databases & Storage
+- **DevOps & Infrastructure:**  
+  `Docker` `Kubernetes` `Linux` `Nginx` `GitLab CI/CD` `Vault`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![S3](https://img.shields.io/badge/S3_Object_Storage-569A31?style=flat-square&logo=amazons3&logoColor=white)
+- **Monitoring & Observability:**  
+  `Grafana` `Prometheus` `VictoriaMetrics` `Kibana` `Elasticsearch` `Sentry`
 
----
+- **Data & ETL:**  
+  `Airflow` `Spark` `Hadoop`
 
-## Messaging & Streaming
+- **AI & Productivity:**  
+  `Cursor` `Claude Code` `Perplexity` `LLM Agents`
 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+- **Testing & Quality:**  
+  `Pytest` `Alembic` `Ruff` `Black` `isort`
 
 ---
 
-## DevOps & Infrastructure
+## 🚀 Experience Highlights
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=flat-square&logo=gitlab)
-![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault)
-
----
-
-## Monitoring & Observability
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat-square)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry)
+- Supported and developed **15 Python microservices** in a high-load AdTech platform
+- Worked with real-time traffic systems reaching **~12k EPS peak load**
+- Reduced budget planning errors by **~7%** using Airflow ETL orchestration
+- Automated ML operational routines, reducing manual work by **~99.7%**
+- Built FastAPI admin tooling that reduced deployment/control operations from **2h → 1m**
+- Migrated MongoDB infrastructure with **~99.99% availability**
+- Designed anomaly detection workflows for AdTech traffic incidents
+- Implemented CI quality gates with Ruff / Black / isort integration
+- Developed async CSV export pipelines for **150M+ logistics records**
+- Migrated legacy Python 2.7 Flask monolith into FastAPI microservices
+- Improved maintainability with pytest coverage and technical documentation
+- Built internal MVP tools using AI agents and LLM-assisted workflows
 
 ---
 
-## Data & ETL
+## 🧪 Featured Projects
 
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+### 📡 AdTech Platform
 
----
-
-## AI & Productivity
-
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
-![Perplexity](https://img.shields.io/badge/Perplexity-111111?style=flat-square)
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-5A67D8?style=flat-square)
-
----
-
-## Testing & Quality
-
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest)
-![Alembic](https://img.shields.io/badge/Alembic-222222?style=flat-square)
-![Ruff](https://img.shields.io/badge/Ruff-black?style=flat-square)
-![Black](https://img.shields.io/badge/Black-000000?style=flat-square)
-![isort](https://img.shields.io/badge/isort-ef8336?style=flat-square)
-
----
-
-# 🚀 Experience Highlights
-
-```text
-• Supported and developed 15 Python microservices in a high-load AdTech platform
-• Worked with real-time traffic systems reaching ~12k EPS peak load
-• Reduced budget planning errors by ~7% via Airflow ETL orchestration
-• Automated ML operational routines, reducing manual work by ~99.7%
-• Built FastAPI admin tooling that reduced deployment/control operations from 2h → 1m
-• Migrated MongoDB infrastructure with ~99.99% service availability
-• Designed anomaly detection workflows for AdTech traffic incidents
-• Implemented CI quality gates with Ruff / Black / isort integration
-• Developed async CSV export pipelines for 150M+ logistics records
-• Migrated legacy Python 2.7 Flask monolith into FastAPI microservices
-• Improved internal platform maintainability with pytest coverage and technical documentation
-• Built internal MVP tools using AI agents and LLM-assisted workflows
-```
-
----
-
-# 🧪 Featured Projects
-
-## 📡 AdTech Platform
-
-> Distributed DSP platform for banner and contextual advertising delivery.
+Distributed DSP platform for banner and contextual advertising delivery.
 
 **Stack:** `FastAPI` `Kafka` `ClickHouse` `MongoDB` `Kubernetes` `Airflow`
 
@@ -155,37 +102,24 @@ Currently focused on:
 - Budget planning optimization
 - Observability stack integration
 
-```md
-# TODO:
-# - add repository link
-# - add architecture diagram
-# - add production screenshots/GIFs
-```
-
 ---
 
-## ⚡ Async Export Service
+### ⚡ Async Export Service
 
-> High-volume export pipeline for logistics and analytics data.
+High-volume export pipeline for logistics and analytics data.
 
 **Stack:** `Django` `PostgreSQL` `Redis` `RabbitMQ`
 
 - Exported 150M+ records
 - Async status tracking
-- CSV generation
+- CSV generation pipelines
 - Cloud object storage integration
-
-```md
-# TODO:
-# - add benchmark results
-# - add queue architecture image
-```
 
 ---
 
-## 🤖 AI Agents MVP
+### 🤖 AI Agents MVP
 
-> Internal tooling powered by LLM agents for engineering workflows.
+Internal tooling powered by LLM agents for engineering workflows.
 
 **Stack:** `Python` `LLM APIs` `FastAPI`
 
@@ -193,17 +127,11 @@ Currently focused on:
 - AI-assisted operational tooling
 - Internal automation workflows
 
-```md
-# TODO:
-# - add demo GIF
-# - add examples of agents/tools
-```
-
 ---
 
-## 📈 Real-time Monitoring System
+### 📈 Real-time Monitoring System
 
-> Monitoring and anomaly detection platform for production traffic.
+Monitoring and anomaly detection platform for production traffic.
 
 **Stack:** `Grafana` `VictoriaMetrics` `Kafka` `Elasticsearch`
 
@@ -211,36 +139,24 @@ Currently focused on:
 - Operational dashboards
 - Incident early-warning pipelines
 
-```md
-# TODO:
-# - add monitoring screenshots
-# - add architecture scheme
-```
-
 ---
 
-## 🏗 Legacy Monolith Migration
+### 🏗 Legacy Monolith Migration
 
-> Migration from Python 2.7 Flask monolith to modern FastAPI services.
+Migration from Python 2.7 Flask monolith to modern FastAPI services.
 
 **Stack:** `Python` `FastAPI` `RabbitMQ` `PostgreSQL`
 
 - Service decomposition
-- Technical documentation
 - Test coverage improvements
+- Technical documentation
 - Reduced support overhead
-
-```md
-# TODO:
-# - add before/after comparison
-# - add migration strategy notes
-```
 
 ---
 
-## 🔄 Analytics / ETL Tooling
+### 🔄 Analytics / ETL Tooling
 
-> ETL orchestration and analytics infrastructure for operational data pipelines.
+ETL orchestration and analytics infrastructure for operational data pipelines.
 
 **Stack:** `Airflow` `Spark` `Hadoop` `ClickHouse`
 
@@ -248,29 +164,22 @@ Currently focused on:
 - Large-scale data handling
 - Distributed analytics workloads
 
-```md
-# TODO:
-# - add DAG screenshots
-# - add ETL flow diagram
-```
+---
 
-# 🏛 Architecture & Interests
+## 🏛 Architecture & Interests
 
-```yaml
-interests:
-  - Distributed Systems
-  - High-load Backend
-  - Event-driven Architecture
-  - Infrastructure Automation
-  - Observability & Monitoring
-  - Async Processing
-  - AdTech Platforms
-  - ETL Pipelines
-  - AI-assisted Development
-  - Production Reliability
-  - Performance Optimization
-  - Developer Tooling
-```
+- Distributed Systems
+- High-load Backend
+- Event-driven Architecture
+- Infrastructure Automation
+- Observability & Monitoring
+- Async Processing
+- AdTech Platforms
+- ETL Pipelines
+- AI-assisted Development
+- Production Reliability
+- Performance Optimization
+- Developer Tooling
 
 ---
 
@@ -291,7 +200,6 @@ interests:
 ---
 
 <div align="center">
-
 
 <i>"Reliable systems are usually boring systems."</i>
 
